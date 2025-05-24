@@ -111,7 +111,7 @@ F ~ ~ O O O O O ~ ~ ~
 
 ```
 Take a shot!
-&gt; A1
+> A1
 
   1 2 3 4 5 6 7 8 9 10
 A X ~ ~ ~ ~ ~ ~ ~ ~ ~
@@ -125,12 +125,12 @@ You hit a ship!
 
 ```
 Player 1, it's your turn:
-&gt; I3
+> I3
 You missed!
 Press Enter and pass the move to another player
 
 Player 2, it's your turn:
-&gt; A1
+> A1
 You hit a ship!
 Press Enter and pass the move to another player
 ```
